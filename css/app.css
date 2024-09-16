@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+.maintitle{
+    font-size: 64px;
+    
+}
+.author {
+    font-size: 16px;
+}
+.img{
+    height: 250px;
+}
+
+.banner {
+	height: 800px;
+	background-color: rgb(40, 152, 196);
+	color: white;
+	background-image: url('../img/pattern.png');
+	background-size: contain;
+	background-position: fill;
+	background-repeat: repeat;
+    height: 10rem;
+    margin: 0;
+}
+.logo{
+    width: 250px;
+    padding-top: 45px ;
+
+}
