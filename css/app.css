@@ -1,15 +1,12 @@
-body{
-    margin: 0;
-}
 .maintitle{
     font-size: 64px;
-    
-}
-.author {
-    font-size: 16px;
+    margin: 0;
 }
 .img{
     height: 250px;
+}
+.author{
+    font-size: 16px; ;
 }
 
 .banner {
@@ -21,10 +18,30 @@ body{
 	background-position: fill;
 	background-repeat: repeat;
     height: 10rem;
-    margin: 0;
 }
 .logo{
     width: 250px;
     padding-top: 45px ;
 
 }
+
+table {
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even){background-color: #7cc4c9}
+  
+  th {
+    background-color: #2b8eb6;
+    color: white;
+  }
+
+  h2{
+    color: lightsalmon;
+  }
+
